@@ -25,7 +25,7 @@
  <a href="https://ibb.co/XSbkrVQ"><img src="https://i.ibb.co/FgKqLnr/DISPLAY.png" alt="DISPLAY" border="0"></a>
  
  ### UPDATE SCREEN.
- <a href="https://ibb.co/hRKTWm0"><img src="https://i.ibb.co/tMb1sJR/UPDATED.png" alt="UPDATED" border="0" /></a>
+ <a href="https://ibb.co/hRKTWm0"><img src="https://github.com/hacker-404-error/STUDENT_DATABASE-MANAGEMENT-SYSTEM/blob/main/sprites/UPDATED.PNG" alt="UPDATED" border="0" /></a>
  
  ## HOW TO OPEN
     1. Download zip file
