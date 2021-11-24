@@ -26,6 +26,12 @@
  
  ### UPDATE SCREEN.
  <a href="https://ibb.co/hRKTWm0"><img src="https://i.ibb.co/tMb1sJR/UPDATED.png" alt="UPDATED" border="0" /></a>
+ 
+ ## HOW TO OPEN
+    1. Download zip file
+    2. Extract the zip file
+    3. run the main.exe file
+    4. Enjoy the software.
 
 
 ## Related
