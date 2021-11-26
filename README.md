@@ -70,4 +70,4 @@ Here are some related project
 
 
 ## Feedback 
-If you have any feedback, please reach out to me at [INSTAGRAM ](https://www.instagram.com/pritamdays/)
+If you have any feedback, please reach out to me at [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-das-7489ab223/)
