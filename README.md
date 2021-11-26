@@ -32,7 +32,21 @@
     2. Extract the zip file
     3. run the main.exe file
     4. Enjoy the software.
+    OR
+    1-Download any CPP IDE (visual studio code,turboc++,devc++,etc.)
+    2-Open main.cpp file.
+    3-Run the program.
+    
+## CONTENT
 
+| CHOICE | ACTION              | 
+| :-------- |  :------------------------- |
+| `1` |INSERT RECORD|
+| `2` |DISPLAY RECORD |
+| `3` |SEARCH RECORD |
+| `4` |UPDATE RECORD |
+| `5` |DELETE RECORD |
+| `6` |EXIT |
 
 ## Related
 
