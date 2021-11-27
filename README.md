@@ -13,6 +13,10 @@
  <a href="https://ibb.co/H7h3XWD"><img src="https://i.ibb.co/kKmvMRg/LOGO.png" alt="LOGO" border="0"></a>
  #### LOGIN PAGE.
  
+ | USERNAME |pritam22|
+ | :-------- |  :------- |
+| PASSWORD |pritam |
+ 
  <a href="https://ibb.co/JryMJrZ"><img src="https://i.ibb.co/WBPYJBC/login.png" alt="login" border="0"></a>
  
  #### CONTROL PANEL.
